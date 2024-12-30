@@ -1,4 +1,4 @@
-#Program plots the wind speeds at 200 hPa
+#Program plots the Arctic sea-ice fraction
 
 from pylab import *
 import numpy
