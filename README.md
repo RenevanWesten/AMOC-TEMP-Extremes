@@ -1,6 +1,6 @@
 # AMOC-TEMP-Extremes
 
-European Temperature Extremes under Different AMOC Scenarios in the Community Earth System Model, submitted to Geophysical Research Letters (December 2024)
+European Temperature Extremes under Different AMOC Scenarios in the Community Earth System Model, submitted to Geophysical Research Letters (January 2024)
 
 René M. van Westen and Michiel L.J. Baatsen
 
